@@ -2,8 +2,8 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     margin: 40px;
-    background-color: #f4f4f4;
-    color: #333;
+    color: #fff; /* Change text color to white for better contrast */
+    background: linear-gradient(to right, #00008B, #00BFFF); /* Dark blue to neon blue gradient */
 }
 
 .container {
